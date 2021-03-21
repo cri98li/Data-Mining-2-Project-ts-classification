@@ -113,3 +113,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# big csv
+flat_df.csv
+flat_df_pca.csv
+fma_metedata_progetto/features.csv
+fma_metedata_progetto/tracks.csv
+fma_metedata_progetto/raw_tracks.csv
