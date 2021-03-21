@@ -1,0 +1,2433 @@
+,original,el
+0,New Jersey,US
+1,nan,TH
+2,Colchester England,GB
+3,"Los Angeles, CA",US
+4,"Providence, RI",US
+5,"Chicago, IL",US
+6,"Baltimore, MD",US
+7,"Portland, OR",US
+8,"Philadelphia, PA",US
+9,"2 Westwood Avenue, Providence, RI 02905, USA",
+10,"New York, NY",US
+11,"Oakland, CA",US
+12,Colchester UK,GB
+13,"San Francisco, CA",US
+14,San Qunetin,US
+15,"Deerfield Beach, FL",US
+16,"Brooklyn, NY",US
+17,"Columbus, OH",US
+18,"Austin, TX",US
+19,PO Box 11568 / Balt MD 21229,US
+20,"Saskatoon, Saskatchewan, CA",CA
+21,"Pasadena, CA",US
+22,"Burbank, CA",US
+23,"Long Beach, CA",US
+24,New York City,US
+25,"Anacortes, WA",US
+26,"Cincinatti, OH",US
+27,"Calackmas, Oregon",US
+28,"Eagle Rock, CA",US
+29,"Tualatin, OR",US
+30,Baltimore. MD,US
+31,"Los Angeles, CA 90041",US
+32,Southern California,US
+33,"Tuam, Ireland",IE
+34,"Albany, NY",US
+35,"Los Angeles, CA 90026",US
+36,Delaware,US
+37,"Durham, NC",US
+38,"Winston-Salem, NC 27120",US
+39,Germany,DE
+40,"Rotterdam, NL",NL
+41,"Shinjuku, Tokyo",JP
+42,"Monterray, Mexico",MX
+43,"Turku, Finland",FI
+44,"Leeds, UK",GB
+45,"Leeuwarde, NL",NL
+46,"Deerfield, MA",US
+47,"Raleigh, NC",US
+48,"Henderson, TN 38540",US
+49,"Sunnyside, NY 11104",US
+50,New York,US
+51,"London, UK",GB
+52,"Scott, LA 70583",US
+53,"San Diego, CA",US
+54,Belgium,BE
+55,"Lee County, AL",US
+56,"Houston, TX",US
+57,"Newcastle, UK",GB
+58,"Brooklyn, NY 11211",US
+59,Finland,FI
+60,"Madison, WI",US
+61,"Seattle, WA",US
+62,"BCN, Spain",ES
+63,"Astoria, Queens, NY",US
+64,"Toronto, Can.",CA
+65,"Mexico D.F., Mexico",MX
+66,"Monterrey, Mexico",MX
+67,"Berkeley, CA",US
+68,"Toronto, ON Canada",CA
+69,Italy,IT
+70,"Hackensack, NJ",US
+71,"Pittsburgh, PA",US
+72,brooklyn/baltimore,US
+73,"Glasgow, Scotland",GB
+74,"Jersey City, NJ",US
+75,"Detroit, MI",US
+76,UK,GB
+77,"Minneapolis, MN",US
+78,"Astoria, NY",US
+79,"Portland, OR / Mexico City, Mexico",US
+80,"New Orleans, LA, 70117",US
+81,"Moscow, Russia",RU
+82,"Bay Ridge, NY",US
+83,"Nashville, TN",US
+84,"Melbourne, AU",AU
+85,"Bloomfield, New Jersey",US
+86,"Easton, PA",US
+87,"Maplewood, NJ",US
+88,"Montclair, NJ",US
+89,"Columbus, Ohio",US
+90,"Chapel Hill, NC",US
+91,"Amsterdam, NL",GB
+92,United Kingdom,GB
+93,"Mike is in Brooklyn, John and Dave are in LA",
+94,"NYC, NY",US
+95,"New York, NY 10035",US
+96,"Toms River, NJ",US
+97,NY,NO
+98,San Francisco,US
+99,"New York, NY; Los Angeles, California",US
+100,"Gotheburg, Sweden",SE
+101,"Newark, NY",GB
+102,"Bristol, England, United Kingdom",GB
+103,"London, UK NW3 5RJ",GB
+104,"Ventura, CA",US
+105,"Duluth, MN",US
+106,"Athens, GA",US
+107,Brooklyn,US
+108,Japan,JP
+109,04974,US
+110,"Brooklyn, NY, 11217",US
+111,Brazil,BR
+112,Ankara - Istanbul - Budapest - Stockholm - Washington D.C.,
+113,"Alabama, 35810",US
+114," 	
+
+Seattle, WA USA",US
+115,"Toronto, Canada",CA
+116,"Oslo, Norway",NO
+117,"New York, NY 10002",US
+118,"Atlanta, GA",US
+119,Argentina,AR
+120,"Rome, Italy",IT
+121,"San Francisco, CA 94110",US
+122,"Long Island City, NY",US
+123,"Brooklyn, NY 11210",US
+124,"Ridgewood, NJ",US
+125,"Guilford, VT",US
+126,"brooklyn, NY",US
+127,"Milwaukee, WI",US
+128,"Leverett, MA ",US
+129,"Pleasantville, NY",US
+130,"Brooklyn & Queens, NY",US
+131,"Brooklyn, NY 11222",US
+132,"Berlin, Germany",DE
+133,"Warwick, RI",US
+134,"Marselle, France",FR
+135,"Columbia, MO",US
+136,"Montreal, Canada",CA
+137,"Cold Spring, NY",US
+138,"Arnhem, Netherlands",NL
+139,"Somerville, MA",US
+140,"Bethel/Arlington/Brooklyn, USA",
+141,"Galway, Ireland
+",IE
+142,"Kraków, Poland",PL
+143,Israel,IL
+144,"Waynesboro, Pennsylvania, USA",US
+145,"Brooklyn, NY  11222",US
+146,TERRA,CY
+147,"Konstanz, Germany",DE
+148,"Los Angeles, California.",US
+149,USA,JP
+150,Philadelphia,US
+151,"New York, NY 10003",US
+152,"Omaha, NE",US
+153,"St. Petersburg, Russia",RU
+154,"New York, New York, USA",US
+155,Canada,CA
+156,"Sankt Petersburg, Russia",RU
+157,"La Goutte d'Or, Paris, France",FR
+158,NY / PA,NO
+159,"Miami Beach, FL",US
+160,"Philadelphia, Pennsylvania",US
+161,"c/o Yeay! po box 7 
+turners falls, ma  01376 USA",
+162,"Brooklyn, New York",US
+163,"New Brunswick, NJ",US
+164,"Dunedin, NZ",NZ
+165,"Burlington, VT",US
+166,Sydney,AU
+167,"Sydney, NSW, Australia",AU
+168,"Sydney, Australia",AU
+169,Sydney / Beijing,CN
+170,"York, UK",GB
+171,"Boston, MA",US
+172,France,FR
+173,Mexico,MX
+174,Brooklyn NY 11222,US
+175,"Philadelphia, PA, 19147",US
+176,"Hatboro, PA",US
+177,"Flourtown, PA",US
+178,"Brooklyn,  New York",US
+179,"Athens & Atlanta, Georgia",US
+180,"Ridgewood, NY",US
+181,"Israel, The Netherlands",IL
+182,"Olympia, WA and Indonesia",GB
+183,Bondi,AU
+184,U.S. ,US
+185,"Vancouver, Washington",US
+186,The Netherlands,GB
+187,"Sacramento, CA",US
+188,"Tønsberg, Norway",NO
+189,"Oakland, California",US
+190,"Bronx, NY",US
+191,Los Angeles,US
+192,"Basque, Spain",ES
+193,"Birmingham, Alabama",US
+194,"NY USA, TLV ISR",US
+195,"The Netherlands
+Israel",IL
+196,England,GB
+197,Europe,
+198,"San Fransisco, CA",EC
+199,"Tlv, Israel",IL
+200,"Olympia, Washington",US
+201,"Bologna, Italy",IT
+202,Spain,ES
+203,"Queens, NY",US
+204,"Bandung, Indonesia",ID
+205,"Yogyakarta, Indonesia",ID
+206,Denmark,DK
+207,"South Portland, Maine",US
+208,"Wormtown County, MA",US
+209,"Wormtown (Worcester) MA, 01610",US
+210,New York City 11221,US
+211,Australia,AU
+212,"Cleveland, OH",US
+213,Somerville MA,US
+214,NJ,PK
+215,Syria,SY
+216,"Atlanta
+Los Angeles
+Sao Paulo
+London
+Tokyo
+Rome
+NYC
+Wellington",
+217,"Kent Ave, Brooklyn, NY",US
+218,"England, Thailand, Brooklyn",GB
+219,"04229 Leipzig, Germany",DE
+220,"Brighton, MA",US
+221,"Richmond, Virginia",US
+222,"Portland, Oregon",US
+223,"WM Recordings
+PO Box 26
+6400 AA Heerlen
+The Netherlands",
+224,"Copenhagen, Denmark",DK
+225,"Toronto, Ontario, Canada",CA
+226,"Berkeley/Oakland, CA",US
+227,"Portland,OR",US
+228,"Beijing, China",CN
+229,"Berlin
+Toronto
+",CA
+230,Minnesota,US
+231,"London, Oxford, Todmorden",GB
+232,Toronto,CA
+233,Lowell MA,US
+234,Iraq,IQ
+235,"Baltimore, MD + The Ocean",US
+236,"The Hague, Holland",NL
+237,"Stockholm, Sweden",SE
+238,"Umea, Sweden",SE
+239,"New York, New York",US
+240,"Brooklyn, NY 11238",US
+241,"Lowell, MA",US
+242,"Poitiers, FRANCE",FR
+243,Stuttgart - Germany,DE
+244,Nantes - France,FR
+245,Brantome in the beatiful south west of France,
+246,Paris - France,FR
+247,"Szeged-Kecel, Hungary",HU
+248,"Richmond, VA",AU
+249,"Cambridge, MA",US
+250,brooklyn,US
+251,"Richmond, VA and San Francisco, CA",US
+252,"Malmö, Sweden",SE
+253,45840,ES
+254,United States,US
+255,"Montreal, Quebec, Canada",CA
+256,"Los Angeles, California",US
+257,"London, England",GB
+258,"Glasgow, Scotland, UK",GB
+259,"Richmond, Virginia ",US
+260,"unincorporated Clackamas County, OR, 97222",
+261,"Köln, Germany",DE
+262,"Chicago, IL 60608",US
+263,"Buenos Aires, Argentina",AR
+264,"Castelo Branco, Portugal",PT
+265,"Boston
+London",GB
+266,Alabama,US
+267,"Seattle, Washington, USA",US
+268,"Brooklyn, NY 11215",US
+269,"Plano, TX",US
+270,"Brooklyn, NY / Chicago, IL",US
+271,"Paris, France",FR
+272,"Aix-en-Provence, France",FR
+273,"Rouen, France",FR
+274,"Denmark, Germany, France",DE
+275,"Kasparhauser, NJ",PK
+276,"TLV, Israel",IL
+277,Austria/Germany/Spain,DE
+278,"Zürich, Switzerland",CH
+279,russia,RU
+280,"Lviv, Ukraine",UA
+281,Belarus,BY
+282,"Montreal, Quebec",CA
+283,"Providence, RI, USA",KR
+284,"Cartagena, Spain",ES
+285,"472 1/2 alcatraz ave
+oakland, ca 94609",
+286,"Örebro, Sweden",SE
+287,"Passaic, NJ",US
+288,"Bordeaux, France",FR
+289,"Portrland, OR.",FR
+290,"Towson, MD",US
+291,"San Francisco, California, USA",US
+292,"Niamay, Niger",NE
+293,"Scranton, PA",US
+294,"San Francisco Bay Area, California",US
+295,"Lancaster, PA",GB
+296,"New York, NY 10012",US
+297,"Silver Spring, MD 20901",US
+298,Deutschland,DE
+299,"Felton, California
+United State",US
+300,"brooklyn, ny",US
+301,"Charlotte, NC",US
+302,"Hempstead, Long Island, NY",US
+303,"Central Islip, Long Island NY",
+304,"Tampa, FL",US
+305,"Plainfield, NJ",US
+306,"New York City, NY",US
+307,"Augusta, GA",US
+308,"Brussels, Belgium",BE
+309,"buenos aires, argentina",AR
+310,"Tokyo, Japan",JP
+311,"Santa Cruz, CA/ Chicago, IL",ES
+312,"Evansville, WI",US
+313,"Saint Paul, MN",US
+314,"LA, CA",IT
+315,"Berlin, DE",DE
+316,"Fredericksburg, Virginia",US
+317,"Danbury, CT",US
+318,"Mexico City, Mexico and Barcelona, Spain",
+319,DC,US
+320,"LA, CA via Leeds",US
+321,"Subotica, Serbia",RS
+322,"Los Angeles, CA 90004",US
+323,"Lindenhurst, NY",US
+324,"Chicago, Illinois",US
+325,"Memphis, TN",US
+326,Malaysia,MY
+327,"Phoenix, AZ",US
+328,"St. Johns of Portland, OR",US
+329,"Brooklyn, New York
+11237",US
+330,"Brooklyn, New York
+",US
+331,"Cleveland, Ohio",US
+332,Iceland,IS
+333,Barcelona and Mexico City,US
+334,"Montclair, New Jersey",US
+335,Costa Rica,CR
+336,"Aberdeen, Scotland",GB
+337,"Bridport, UK",GB
+338,Chicago,US
+339,"Delft, Zuid-Holland Netherlands ",NL
+340,"Camberwell South London, UK",GB
+341,"Tempe, AZ",US
+342,North Carolina and New York,GB
+343,Portland ME ,US
+344,"Portland, ME ",US
+345,Russia,RU
+346,"Portland, Oregon, USA",US
+347,"Staten Island, NY",US
+348,"Sao Paolo, Brazil",BR
+349,"Winston-Salem, NC",US
+350,Sweden,SE
+351,"New York, New Jersey",US
+352,Seattle ,US
+353,"Philadelphia, PA ",US
+354,"Oakland,CA",US
+355,"Milan, Italy",IT
+356,New Zealand,NZ
+357,"Mysore, Karnataka, India",IN
+358,NYC,US
+359,"Montreal, QC, Canada",CA
+360,oakland,US
+361,france ,FR
+362,Pacific Northwest (USA),US
+363,"Brooklyn, NY, 11215",US
+364,"BRUXELLES/OLYMPIA, Belgium",BE
+365,"Texas, United States",US
+366,"Gent, Flandre-Orientale, Belgium",BE
+367,New York ,US
+368,"East-Flanders, Belgium",BE
+369,"Helsinki, Kemiö, Tampere, Turku,
+Finland ",
+370,"Pirkanmaa, Finland ",FI
+371,"Ghent, Belgium",BE
+372,"Muskegon, Michigan",US
+373,"Helsinki
+FINLAND",FI
+374,Helsinki FINLAND,FI
+375,"Christchurch, NZ",NZ
+376,Netherlands,NL
+377,"Gent, Belgium",BE
+378,"New South Wales, Australia",AU
+379,"Italy, Lithuania",IT
+380,Toronto/Berlin,CA
+381,New Jersey/Washington DC,US
+382,God Damn New Jersey,EG
+383,"NJ, NYC, DC, SF, FL",
+384,"SAN ANTONIO, TEXASS 78231",US
+385,"France
+Japan",JP
+386,"Avilés, Asturias, Spain",ES
+387,"Amsterdam, The Netherlands",NL
+388,Senegal/The Netherlands,NL
+389,New York City ,US
+390,"Portland,  OR",US
+391,"Lafayette, IN",US
+392,WFMU,US
+393,"New York, NY 10033",US
+394,"Washington, DC/Brooklyn, NY",US
+395,"Montreal, QC / New York, NY",
+396,"NYC, NJ",US
+397,Columbia,CA
+398,"https://curtishasselbring.bandcamp.com/
+https://www.youtube.com/channel/UCojdesK5P1RyWufg2EyWk1Q
+http://www.curha.com/",
+399,"Hoboken, NJ USA",US
+400,Montreal,CA
+401,"Kyzyl, Tuva",RU
+402,"Barcelona, Spain",ES
+403,"Florence, Italy",IT
+404,"Valencia, Spain",ES
+405,"NAVEL
+Jari Antti Altermatt
+Bläsiring 92
+CH - 4057 Basel
+Switzerland",
+406,FRANCE,FR
+407,"Bushwick
+Brooklyn
+New York City",US
+408,Russia / Belarus,RU
+409,Poland,PL
+410,"Dorchester, MA",US
+411,Puerto Rico,US
+412,Michigan,US
+413,"Ottawa, ON
+",CA
+414,"Ottawa, ON",CA
+415,"207 Bank Street, Suite 404
+Ottawa, ON
+K2P 2N2
+Canada",
+416,new york,US
+417,"Westport,Connecticut,Usa 1978",
+418,"Glasgow, UK
+Leicester, UK
+Brooklyn, USA",
+419,"Buenos Aires, Argentina
+Brooklyn, USA",AR
+420,"Fultonstraat 6
+2562 XH, Den Haag
+Nederland",NL
+421,London,GB
+422,"Montreal, QC Canada",CA
+423,"Providence, Rhode Island 
+USA",US
+424,"chicago, IL",US
+425,"Lakewood, New Jersey",US
+426,Austria,AT
+427,"Manchester, UK",GB
+428,"UK, Scotland, Glasgow",GB
+429,Mississippi,US
+430,"Belzoni, Mississippi",US
+431,"Scott County, Mississippi",US
+432,"Oakland, CA, USA",US
+433,North London,GB
+434,"Montreal, QC / Providence, R.I.",
+435,"Birmingham, West Midlands
+United Kingdom ",GB
+436,"Stonehaven, United Kingdom",GB
+437,brooklyn/queens,CA
+438,"Portland, Oregon.",US
+439,Portugal,PT
+440,"MURFREESBORO, Tennessee
+",US
+441,Haiti / New York,HT
+442,Portland Oregon,US
+443,"Nijmegen/Amsterdam, the Netherlands",NL
+444,"Skokie, Illinois",US
+445,"Boston, Massachusetts",US
+446,"Laffayette, IN",DZ
+447,Connecticut,US
+448,"Pasadena, California",US
+449,"San Francisco, USA",US
+450,"Darien, CT/Purchase, NY",
+451,"Didam, Netherlands",NL
+452,"Santa Cruz, CA",US
+453,"New Berlin, Wisconsin",US
+454,"Osaka, Japan",JP
+455,"Chicago, IL 60302",US
+456,"Tel Aviv, Israel",IL
+457,"Hudson, NY 12534",US
+458,Tel Aviv Israel,IL
+459,"Brooklyn, New York
+United States",US
+460,"Linz, Austrai",AT
+461,"Niafunké, Mali",ML
+462,"Washinton, DC",US
+463,"Washington, D.C. ",US
+464,"Brooklyn, NY ",US
+465,"Gothenburg, Sweden",SE
+466, Kiel & Cologne / Germany,DE
+467,Kiel /Germany,DE
+468,Kiel / Germany,DE
+469,"Sardinia, Italy",IT
+470,"Strasbourg, France",FR
+471,"Holland, Netherlands",NL
+472,Den Haag / Netherlands,NL
+473,homer alaska / maui hawaii ,US
+474,Auckland - New Zealand,NZ
+475,"Princeton, NJ, USA",US
+476,"Fort Collin, Coloroda, USA",US
+477,Washington D.C.,US
+478,Norway,NO
+479,Taipei Taiwan,TW
+480,Romania,RO
+481,10301,CO
+482,"Budapest, Hungary",HU
+483,Spokane WA,US
+484,"Fuengirola, Spain",ES
+485,"La Chaux-de-Fonds, Switzerland",CH
+486,"Lyon, France ",FR
+487,"East Peoria, IL 61611",US
+488,Marseille (France),FR
+489,"Guadalajara, Mexico",MX
+490,"Portland, OR.",US
+491,"Vancouver, Canada",CA
+492,"Albuquerque, New Mexico",US
+493,"British Columbia, Canada",CA
+494,"Vancouver, Canada
+Brooklyn, NY",CA
+495,Leeds,GB
+496,Newcastle/York/Montréal/Vancouver,
+497,"Vienna, Austria",AT
+498,"Calgary, Canada",CA
+499,"Bristol, Rzeszow-Poland, Southwest United Kingdom ",
+500,"San Francisco, California United States",US
+501,New Jersey and Switzerland,US
+502,"Brattleboro, VT",US
+503,Spain / New York,US
+504,"Rio De Janeiro, Brazil",BR
+505,"Dublin, Ireland",IE
+506,"Suffolk County, United Kingdom",GB
+507,"California, 92683",US
+508,"Lille, FRANCE
+",FR
+509,"Warsaw, Poland",PL
+510,"Čerčany, 257 22, Czech Republic ",TZ
+511,"Walthamstow, London, E17 5ES. UK ",GB
+512,"Chico, CA, USA 95928 ",US
+513,"Antibes, FRANCE",FR
+514,Omaha NE 68102,US
+515,"Melbourne, 3058, Australia ",AU
+516,"Brooklyn, NY
+11206",US
+517,"Kaunas, Lithuania",LT
+518,"2400 Copenhagen, Denmark
+",DK
+519,"Bristol, UK",UA
+520,"Bodø, Norway ",NO
+521,"Nijmegen, Netherlands",NL
+522,"Geneva, Switzerland ",CH
+523,"Montreal, Quebec Canada",CA
+524,"Colorado Springs, CO",US
+525,"Geneva, Switzerland",CH
+526,Berlin,DE
+527,Northeast England,US
+528,Ireland,IE
+529,"São Paulo, Brazil",BR
+530,"Pozega, Serbia",RS
+531,"London, N16",GB
+532,"Rice Lake, WI",US
+533,"Edinburgh, United Kingdom ",GB
+534,"Ottawa, Canada",CA
+535,Lausanne,CH
+536,france,FR
+537,Orlando / Dispersed,US
+538,Seattle,US
+539,"Bushwick
+Brooklyn
+New York City
+Earth
+Milky Way Galaxy
+Morgenheutegesternwelt",
+540,"Brighton, UK",GB
+541,NJ / NY,US
+542,"Grigioni, Switzerland",CH
+543,"Geneva, Zuerich, Bulle, Lugano, Switzerland",
+544,Northampton England. ,GB
+545,"Gympie, Australia",AU
+546,ny,NO
+547,11501,US
+548,Turkey,TR
+549,Brooklyn NY 11218 US,US
+550,Holland,NL
+551,Amsterdam,NL
+552,Berlin/Amsterdam,DE
+553,Brighton,GB
+554,"Russia, Orenburg",RU
+555,"Kearny, NJ",US
+556,"New Orleans, LA
+New York, NY",US
+557,"Juarez, Mexico ",MX
+558,"Hollywood, Florida",US
+559,"Franklin Park, New Jersey",US
+560,Germay,FR
+561,"Flemish Brabant, Belgium",BE
+562,Wollongong ,AU
+563,"Newcastle, Australia",AU
+564,Chile,CL
+565,Brooklyn & New Jersey,US
+566,"san marcos, tx",US
+567,"Northampton, MA USA",US
+568,"Jacksonville, Florida",US
+569,"三重県
+Japan ",JP
+570,"Lausanne, Switzerland",CH
+571,"Kylv, Ukraine",UA
+572,"Boulder, Colorado.",US
+573,"Peoria, IL, NYC, and Los Angeles",
+574,"New Orleans, Louisiana / Saint Paul, Minnesota 
+United States ",US
+575,"Bed-Stuy, Brooklyn, NY.",US
+576,"Frankfurt, Germany",DE
+577,"Blackburn, UK",GB
+578,"Lyon, France",FR
+579,"Graz, Steiermark, Austria.",AT
+580,"Miami, FL, USA",US
+581,"Moscow & Saint-Petersburg, RU",RU
+582,"Reutov, RU",RU
+583,"Anywhere, USA",JP
+584,"Milwaukee, USA",US
+585,"Montpellier, FRANCE",FR
+586,"NASHVILLE, Tennessee ",US
+587,"Olinda, Pernambuco e São Paulo, Brazil
+",BR
+588,"Oak Harbor, Washington",US
+589,"Brooklyn, NY 11201",US
+590,"Harlem, NYC",US
+591,"Richmond, Va",AU
+592,Boston,US
+593,"Bay Area, California ",US
+594,"Anacortes, Washington ",US
+595,"Anacortes, Washington",US
+596,"Cardigan, Wales, UK",GB
+597,"Sheffield, United Kingdom ",GB
+598,"Guadalajara, Jalisco. México.",MX
+599,"Chicago, Illinois, 60622",US
+600,"Astrakhan, Russia",RU
+601,"Russia,
+Lithuania",LT
+602,Hungary,HU
+603,"Brisbane, QLD, Australia",AU
+604,"Hanover, Germany",DE
+605,"México City. 
+
+México, DF",MX
+606,Latvia,LV
+607,Miami,US
+608,Sacramento,US
+609,Orland California,US
+610,"Tokyo, Japan. ",JP
+611,"Algoma, Wisconsin",US
+612,"Brooklyn, NY, USA",US
+613,Southwest Virginia,US
+614,"Stuttgart, Germany",DE
+615,"Saint-Petersburg, Russia",RU
+616,"Andalusia, Spain",ES
+617,"New York City, NY USA",US
+618,"Spokane, Washington",US
+619,"Allentown, PA",US
+620,"Madrid, Spain",ES
+621,"cafe abdab, london orbital",ET
+622,"Bremen, Germany",DE
+623,"Raleigh, Carrboro, D.C., N.Y.C., East Coast",
+624,"Falcon, Venezuela",VE
+625,"Baden-Württemberg, Germany ",DE
+626,"Baltimore, Maryland",US
+627,Rowhedge UK,GB
+628,"Moscow, RU",RU
+629,"Waverly, New York",US
+630,"Providence, Rhode Island",US
+631,Jena (Germany),DE
+632,"Oakland, California, USA",US
+633,"Nancy, Lorraine, France",FR
+634,"Cleveland, Ohio ",US
+635,"St. Louis, Missouri",US
+636,California,US
+637,"Minneapolis, Minnesota  55199",US
+638,Washington D.C. area,US
+639,"Riga, Latvia",LV
+640,"Castellón, Spain ",ES
+641,Plcerville CA,VN
+642,"Surabaya, Indonesia",ID
+643,"Brisbane, Australia",AU
+644,"New York
+San Francisco ",MX
+645,Portland OR,US
+646,switzerland,CH
+647,Spain; Switzerland,ES
+648,"Kalamazoo, MI",US
+649,"Italy
+Austria",IT
+650,"Monterrey, Nuevo León, Mexico",MX
+651,"Monterrey, Mexico ",MX
+652,"Denton, TX",US
+653,"Zagreb, Croatia",HR
+654,"Brooklyn, NY/New Haven, CT",
+655,"Albuquerque, NM via Ypsilanti, MI",US
+656,"New York, NY USA",US
+657,paris france ,FR
+658,france pantin ,FR
+659,"New Haven, CT",US
+660,strasbourg ,FR
+661,"paris, strasbourg , rome ,genéve",FR
+662,"cherbourg, france ",FR
+663,france paris ,FR
+664,alexandredavidgabriel@gmail.comalexandredavidgabriel@gmail.comalexandredavidgabriel@gmail.comalexandredavidgabriel@gmail.comalexandredavidgabriel@gmail.comalexandredavidgabriel@gmail.comalexandredavidgabriel@gmail.comalexandredavidgabriel@gmail.comalexandredavidgabriel@gmail.com,
+665,"Sao Paulo, Brazil
+Vancouver, Canada",BR
+666,"Seattle, Washington",US
+667,"Kawasaki, Japan",JP
+668,"Netherlands, Den Haag",NL
+669,"Bristol, Swansea",US
+670,"California, USA",US
+671,Scotland,GB
+672,"New York, USA",US
+673,"Florida, USA",US
+674,Hungary & Japan,HU
+675,"Blue Mountains, Australia",AU
+676,"2000-2011: Melbourne, Australia",AU
+677,"Baja California, Mexico",MX
+678,"New York, NY
+10014",US
+679,"Brooklyn, NY
+11222",US
+680,"Red Bank, New Jersey",US
+681,"Chicago, IL
+60659",US
+682,"Chicago, IL 60601",US
+683,"Long Beach, NY",US
+684,"Texarkana, Texas",US
+685,"Montréal, Québec, Canada",CA
+686,TOKYO/POZEGA/FRANKFURT,DE
+687,"providence, rhode island",US
+688,"Arcata, CA",US
+689,"Rosario, Santa Fe, Argentina",AR
+690,"Portland, Oregon, 97203 USA",US
+691,In your pants,GB
+692,Paris,FR
+693,"Canberra, Australia",AU
+694,"Hobart, Tasmania",AU
+695,"Rhode Island City, RI",US
+696,"Recife, Pernambuco, Brazil",BR
+697,"Dresden, Germany",DE
+698,Brooklyn 11217,US
+699,"Scotland, United Kingdom",GB
+700,"Rio de Janeiro, Brazil",BR
+701,"Jamaica Plain, Massachusetts ",US
+702,"New York,NY",US
+703,"Natick, Massachusetts ",US
+704,"Buenos Aires, Argentina ",AR
+705,"Toulouse, France",FR
+706,"Hanover, New Hampshire",US
+707,rennes france,FR
+708,Portland,US
+709,"Brittany, France",FR
+710,"Long Island, New York",US
+711,"Brooklyn, New York ",US
+712,"Fuckoka, Japan",JP
+713,"Petrozavodsk, Russia",RU
+714,"Dubna, Russia",RU
+715,California ,US
+716,"Oklahoma City, Oklahoma ",US
+717,Russian Federation ,FR
+718,"Guelph, Ontario Canada ",CA
+719,"Portland, ME",US
+720,"Korolev, the Moscow region, Russia",RU
+721,"Montreal, Quebec CA",CA
+722,"Fargo, ND",US
+723,"Filthy, Pennsylvania",US
+724,Ohio,US
+725,"Harrisonburg, VA",US
+726,"Orland Park, IL",US
+727,"Oaxaca, Mexico",MX
+728,"Nijmegen, Netherlands ",NL
+729,"Lil' Bermuda, United Kingdom ",GB
+730,"Genève, Switzerland ",CH
+731,strasbourg,FR
+732,"New Jersey, USA",US
+733,"Louisville, Kentucky",US
+734,"Venice, Italy",IT
+735,"Athens, OH",US
+736,England / New Zealand / France,GB
+737,"Cannes, France",FR
+738,"Dijon - Grenoble, Bourgogne, France ",FR
+739,Moscow,RU
+740,"Milano, Italy",IT
+741,"Morelia, Mexico",MX
+742,"Jalisco, Mexico",MX
+743,"Entre Tours et Poitiers, France",FR
+744,"Kazan, Russia",RU
+745,Luxembourg,LU
+746,"Peking, China",CN
+747,"Mouscron, Belgium
+",BE
+748,"Zuid-Holland, Netherlands",NL
+749,"Languedoc-Roussillon 
+France ",FR
+750,"Graz, Austria",AT
+751,"Rennes, Bretagne 
+France ",FR
+752,"Lille city, Nord-Pas-de-Calais 
+France ",FR
+753,"Glasgow, Scotland / BC, Canada",GB
+754,"Béziers, France",FR
+755,"Klaipeda, Lithuania",LT
+756,"Nîmes, France",FR
+757,"Pepinster, Liège 
+Belgium ",BE
+758,"Lille, Nord-Pas-de-Calais 
+France ",FR
+759,"St. Gilles, Belgium",BE
+760,Rome,IT
+761,Quartu Sant'Elena/Cagliari/Sardinia/Italy,IT
+762,France / U.S.A.,GB
+763,"Fukuoka, Japan",JP
+764,"Philadelhia, USA",JP
+765,"Cincinnati, Ohio",US
+766,"Vilnius, Lithuania",LT
+767,"Winchester, UK",GB
+768,"Chicago, USA",US
+769,"Melbourne, Australia",AU
+770,Bucharest,RO
+771,"Dortmund, Germany",DE
+772,"Montevallo, AL",US
+773,"Seattle, USA",US
+774,"Bucharest, Romania",RO
+775,"Newton, Massachusetts",US
+776,"Valparaiso, IN",US
+777,"Padova, Italy",IT
+778,"NH, USA",CO
+779,"Cologne, Germany",DE
+780,"Reykjavík / Berlin, Iceland",IS
+781,UK / Sweden,UA
+782,"Pretoria, South Africa",ZA
+783,Argentina / UK,UA
+784,Knoxville,US
+785,"Bushwick, Brooklyn",US
+786,"Washington, DC",US
+787,Vermont,US
+788,"Częstochowa, Poland",PL
+789,"Tucson, AZ",US
+790,New York and Paris,CA
+791,"Triangulating Berlin, Detroit and NYC",
+792,Buenos Aires,AR
+793,"Montevideo, Uruguay
+",UY
+794,"Denver, Colorado, Usa",US
+795,"Minsk, Belarus",BY
+796,Kharkov / Ukraine ,UA
+797,Slovenia,SI
+798,"Lutherville, MD; Woodbine, MD",US
+799,"San Francisco, United States 94117",US
+800,"Peoria, IL USA",US
+801,"New York City, New York",US
+802,"Friesland, Netherlands",NL
+803,"Denver, CO",US
+804,"Wellington, New Zealand",NZ
+805,"Offenbach, Capitol of Nothing",DE
+806,"Cleveland, OH, USA.",US
+807,L.A,IT
+808,"Jura, Switzerland",CH
+809,"Tel Aviv, Israel.",IL
+810,Redding California,US
+811,"Arcadia, California",US
+812,"Los Angeles, New York",US
+813,Los Angeles CA,US
+814,"Wrocław
+Poland ",PL
+815,"Galway, Ireland",IE
+816,"Hamburg, Germany",DE
+817,"New Jersey, United States",US
+818,Worldwide,US
+819,"Scotland, UK",GB
+820,"Pembrokeshire, Wales",GB
+821,"Mitoma Industries, Scotland, UK",
+822,"Utah, USA",US
+823,Italy/France,IT
+824,"São Paulo/Salvador 
+Brazil ",BR
+825,"Bethlehem, Pennsylvania U.S.A.",US
+826,"Foothills of the Appalachain Mountains 
+United States",
+827,"Volzhsky, Russia",RU
+828,"Boston, USA",US
+829,"Bloomington, IN",US
+830,"Alesund, Norway",NO
+831,"Brussels, Belgium, Europe, Earth",BE
+832,"Wisconsin, USA",US
+833,"Portland, Los Angeles",US
+834,"Devonshire, UK",GB
+835,Baltimore / Berlin,US
+836,"estel is from dublin, ireland.
+
+
+steve makcay lives in pacifica, ca (usa)
+
+
+mike watt lives in san pedro, ca (usa)
+",
+837,"Montevideo, Uruguay.",UY
+838,Tel Aviv,IL
+839,"Northampton, MA",US
+840,"San Antonio, TX, USA",US
+841,"Edinburgh, Scotland, UK",GB
+842,"Devon, United Kingdom",GB
+843,"Peoria, Illinois
+United States ",US
+844,Barcelona Spain Lima Peru,PE
+845,"Flensburg, Germany",DE
+846,90039,IT
+847,Astral Locations,CA
+848,"Kalamazoo, Michigan",US
+849,Weimar/Germany,DE
+850,"Kraków, Poland / Amsterdam, Netherlands",PL
+851,"ann arbor, mi",US
+852,"Barcelona, Spain. Lima, Peru",PE
+853,"Westfield, Massachusetts",US
+854,"Istanbul, Turkey ",TR
+855,"Brooklyn, New York 11233",US
+856,"Chigago, IL 60608",US
+857,"Breda, Noord-Brabant 
+Niederlande",NL
+858,"North Carolina, USA",US
+859,"Zwolle, Netherlands",NL
+860,"Shanghai, China",CN
+861,"Porto, Portugal",PT
+862,"North Hollywood, CA 91603",US
+863,"Binghamton, New York",US
+864,Prag / CZ,CZ
+865,"Teplice, Czechoslovakia",CZ
+866,"Prague, Czechoslovakia",CZ
+867,"Reykjavík, Iceland",IS
+868,Cagliari - Sardegna - Italy,IT
+869,"OSNABRUECK WUESTE
+Germany ",DE
+870,"Austin, Texas",US
+871,"Detroit, Michigan",US
+872,"Timisoara, ROMANIA",RO
+873,Santigo de Chile - Chile,BR
+874,Ukraine/Kharkiv,UA
+875,Ukraine/Kharkiv-Lviv-Transit,UA
+876,"Aberdeen, Scotland, UK",GB
+877,"Rhône-Alpes 
+Frankreich",FR
+878,"Nantes-la chapelle/erdre-, Pays de la Loire, FR",FR
+879,FR,CH
+880,Greece,GR
+881,"Rutherford, New Jersey",US
+882,Los Angeles ,US
+883,"Treviso, Italy",IT
+884,Torino - Italy,IT
+885,weimar,DE
+886,"Weimar, Germany",DE
+887,"Cheltenham, UK",GB
+888,baltimore MD,US
+889,"Taunton, UK",GB
+890,Saarbrücken (Germany),DE
+891,"Tampere, Finland",FI
+892,"Yoshkar-Ola, Russia",RU
+893,"Penafiel, Portugal",PT
+894,"Porto, Potugal",BR
+895,"Brentford, England",GB
+896,"Lisbon, Lisboa, Portugal",PT
+897,"Lisboa, Portugal",PT
+898,"Lisbon, Portugal",PT
+899,"Vila do Conde, Portugal",PT
+900,"Lisboa, Lisbon, Portugal",PT
+901,"Sesimbra, Lisboa, Portugal",PT
+902,Romania and Chile,GB
+903,"Clearwater, Florida, USA",US
+904,"Oliveira do Hospital, Coimbra, Portugal ",PT
+905,"San Francisco
+Antwerp, Belgium",BE
+906,London UK,GB
+907,"Tacoma, Washington, USA",US
+908,Asturies - Spain,ES
+909,"Ludvika/Gothenburg, Sweden",SE
+910,"Yorkshire, UK",GB
+911,"Krasnoyarsk, Russia",RU
+912,"Arizona, USA",US
+913,India,IN
+914,"Prague, Czech Republic",CZ
+915,"Germany, Dresden",DE
+916,"Brighton, United Kingdom",GB
+917,"Bordeaux, France ",FR
+918,"Saint-Etienne, France ",FR
+919,"Yonkers, NY",US
+920,"Grenoble, France",FR
+921,"Cassablanca, Morocco",MA
+922,"Helsinki, Finland ",FI
+923,"The Hague, Netherlands",NL
+924,"Malaga, Spain",ES
+925,"San Francisco, Ca",US
+926,"Athens, Georgia",US
+927,Brooklyn NY,US
+928,Indonesia,ID
+929,"Brooklyn, NY,
+Amsterdam, NL",
+930,"Istanbul, Turkey",TR
+931,"London, UK (orig Brisbane, Australia)",
+932,ireland,IE
+933,"Jyväskylä, Finland",FI
+934,"Tokyo, Japan.",JP
+935,"new haven, ct 06511",US
+936,amiens,FR
+937,London-Barcelona-Australia,AU
+938,Washington DC,US
+939,"Meriden, Connecticut",US
+940,"Fayetteville, Arkansas",US
+941,bloomington indiana,US
+942,Seattle WA,US
+943,"Washington D.C.; Yonkers, NY",US
+944,"Toledo, OH",US
+945,"Taiwannes, Switzerland",CH
+946,"Halifax, Canada / Berlin, Germany",DE
+947,"East Kilbride, Scotland",GB
+948,"Tallinn, Estonia",EE
+949,"Elven, FR",FR
+950,"DF, México, MX",MX
+951,"Caracas, Venezuela",VE
+952,"Mexico, Distrito Federal, MX
+",MX
+953,"Montigny-les-Metz , France",FR
+954,"Miami, FL",US
+955,"Brooklyn, USA",US
+956,Indonesia 55131,ID
+957,Memphis/Asheville/Nashville,US
+958,"Mary Halvorson: Brooklyn, NY
+Joe McPhee: USA",
+959,"Chiapas, Mexico / Berlin, Germany",MX
+960,"Lahr, Germany",DE
+961,"Marseille, France",FR
+962,"Rotterdam, The Netherlands",NL
+963,The Hallow Mirror Central,PH
+964,France & Spain,ES
+965,Alaska / Hawaii,US
+966,Brussels,BE
+967,"Aguascalientes, MX",MX
+968,Italty,GB
+969,"Jerusalem, Isreal",IL
+970,"Castellón, Spain",ES
+971,"Philadelphia, PA, USA",US
+972,"Helsinki, Finland",FI
+973,Maine,US
+974,"Connellys Springs, North Carolina, USA
+
+",US
+975,"Jura, Suisse",CH
+976,"Brampton, Ontario",CA
+977,"San Luis Obispo, CA",US
+978,"Las Vegas, NV",US
+979,"Maryland, USA",US
+980,"Montigny-lès-Metz, France",FR
+981,"Toronto, Canada (born Colombian)",CA
+982,"Torino, Italy",IT
+983,"Amsterdam, Netherlands",NL
+984,?,
+985,"Brooklyn, NY 11206",US
+986,Germany/Russia/Belarus,DE
+987,Wisconsin,US
+988,"Providence, Rhode Island, USA",US
+989,New York (at least all were at that time),
+990,DC & VA,US
+991,los ang,US
+992,Cagliari/Italy,IT
+993,"State College, PA",US
+994,"Fayetteville, AR 72701",US
+995,"Cucumber, Driveby",US
+996,"Lake Butler, Florida",US
+997,Massachusetts,US
+998,"Washington, DC ",US
+999,Brooklyn & Queens,CA
+1000,Tuva Republic,RU
+1001,Rome (Italy),IT
+1002,"Brooklyn, NY & Boston, MA",US
+1003,"Subotica, Former Yugoslavia (Serbia)",
+1004,Milwaukee,US
+1005,chicago,US
+1006,"Fukushima, Japan",JP
+1007,unknown,EG
+1008,"Dnipropetrovsk, Ukraine",UA
+1009,"Kharkiv/Lviv, Ukraine",UA
+1010,"Umeå, Sweden",SE
+1011,"Asheville, NC",US
+1012,"Rosendale, NY 12472",US
+1013,"-2010: Melbourne, Australia",AU
+1014,"Ukraine, Kharkiv",UA
+1015,"Toronto, Canada
+(Born Columbian)",CA
+1016,"New Orleans, LA",US
+1017,"Greenpoint, Brooklyn",US
+1018,"Big Island, HI/ Sao Paulo, Brasil",BR
+1019,"Itä-Uusimaa, Finland",FI
+1020,"Tuscany, Italy",IT
+1021,"Belle Harbor, NY",US
+1022,"Gunnison Beach, New Jersey",US
+1023,"Sacramento, Ca",US
+1024,"Long Branch, New Jersey",US
+1025,"Beers Village, New York",US
+1026,"Washington, D.C. / Lutherville, Maryland
+",US
+1027,"Jerusalem, Israel",IL
+1028,New Orleans,US
+1029,"Tulsa, OH/Green Pidgin, NSW",
+1030,Florida,US
+1031,"Würzburg, Germany",DE
+1032,"Essen, Germany",DE
+1033,"Suffolk, UK",GB
+1034,"Eindhoven, Noord-Brabant, Nederland",NL
+1035,"Bonn, Germany",DE
+1036,Texas,US
+1037,Mexico City,MX
+1038,"Bloomington, Indiana",US
+1039,Baltimore / New York ,US
+1040,"Dnipropetrovsk, UA",UA
+1041,"Brisbane, NSW",AU
+1042,"Ústí nad Labem, Czech Republic",CZ
+1043,Altoona,US
+1044,"London and South East, United Kingdom",GB
+1045,"Denton, Texas",US
+1046,"Normandie, France",FR
+1047,Czechia,CZ
+1048,Antwerp,BE
+1049,"Kentucky, USA",US
+1050,"Chambéry, France",FR
+1051,"Richmond, VA 23231",US
+1052,"Madrid, Spain;
+New York, New York",ES
+1053,Austin Texas,US
+1054,Hamburg / Germany,DE
+1055,Manchester / UK,GB
+1056,"Boston, Massachusetts. USA ",US
+1057,"Philadelphia, Pennsylvania. USA",US
+1058,"Utrecht, Netherlands",NL
+1059,"Sao Paulo, Brazil",BR
+1060,Melbourne via Adelaide Australia,AU
+1061,"Brisbane, Australia / Berlin, Germany",DE
+1062,"Finale Emilia, Italia",IT
+1063,"Granada, Spain",ES
+1064,"Washington, D.C., USA",US
+1065,"Kharkov, UA",AM
+1066,"NSW, Australia",AU
+1067,"Brooklyn, New York City",US
+1068,"Twin Cities, MN, USA",US
+1069,"Jackson, MS 39202",US
+1070,"Brighton, Scotland",GB
+1071,"Chicago, Illinois ",US
+1072,"Sacramento, California ",US
+1073,Chicago 60647,US
+1074,"Oakland, CA ",US
+1075,"Paris
+Brooklyn",CA
+1076,"Rowhedge,Colchester. UK",GB
+1077,"Dayton, OH 
+Brooklyn, NY",US
+1078,"Dominic Lash: New York, NY
+Nate Wooley: Jersey City, NJ",
+1079,"Richmond, VA 23220",US
+1080,"Bilbao, Madrid, Spain",ES
+1081,Missouri/Oklahoma,US
+1082,"Northampton, UK",GB
+1083,"Nottingham, UK ",GB
+1084,"Madison, Concord, Baltimore",US
+1085,Northern California,US
+1086,"Berlin
+Germany",DE
+1087,Santiago de Chile,CL
+1088,"Delft, The Netherlands",NL
+1089,"Glasgow, UK",GB
+1090,"Russia, Moscow",RU
+1091,"Belgrade, Serbia",RS
+1092,"Guadalajara, México",MX
+1093,Thailand,TH
+1094,"Cambridge, Massachusetts, USA",US
+1095,Madrid,ES
+1096,"(rural) Susquehanna County, PA",CA
+1097,"Mulhouse, France.",FR
+1098,"Barcelona, Spain.",ES
+1099,Los Angeles California USA.,US
+1100,"Kyoto, Japan.",JP
+1101,jersey city,US
+1102,"San José, Costa Rica",CR
+1103,"New York, New York.",US
+1104,11217,US
+1105,"Glasgow, Scottland.",GB
+1106,Italia,IT
+1107,"Mainz, Germany",DE
+1108,"Santiago, Chile",CL
+1109,"Escondido, CA 92026",US
+1110,Copenhagen Denmark,DK
+1111,Baltimore,US
+1112,"Brooklyn, New York
+Tokyo, Japan
+Lausanne, Switzerland ",
+1113,"Málaga, Spain",ES
+1114,Galiza Portugal,PT
+1115,"Exeter, UK",GB
+1116,Münster Germany,DE
+1117,"Portland, OR 97201",US
+1118,"Madison, Wisconsin ",US
+1119,"Cumbria, England",GB
+1120,"Bari, Italy",IT
+1121,"Wybierz region, Poland",CL
+1122,"Assisi, Italy",IT
+1123,Berlin Germany,DE
+1124,"Nottingham, UK",GB
+1125,"Rzeszów, Poland",PL
+1126,"Montevideo, Uruguay",UY
+1127,"Washington, DC | Brooklyn, NY",US
+1128,"Edinburgh, Scotland",GB
+1129,"Austin, TX 78715",US
+1130,"Providence, RI 02940",US
+1131,"Dussleldorf, Germany",DE
+1132,"Claremont, CA 91711",US
+1133,Tokyo & New York ,JP
+1134,"Margerid, France",FR
+1135,"Vancouver, BC",CA
+1136,"Iowa City, Iowa 52243",US
+1137,"Based in Newcastle upon Tyne, UK.",
+1138,"Cambridge, UK",GB
+1139,"Ravenna, Italy",IT
+1140,"San Francisco, CA 94005",US
+1141,"trente, italy",IT
+1142,"Victoria, Canada",CA
+1143,"Trenton, NJ 08601",US
+1144,"Philadelphia, PA 19115",US
+1145,"Vancouver, BC, Canada",CA
+1146,"Houston, TX 77001",US
+1147,"stockholm, sweden ",SE
+1148,"Columbus Ohio, USA",US
+1149,"New York, New York ",US
+1150,"Pittsburgh PA, USA",US
+1151,Jakarta Indonesia,ID
+1152,"Selinunte, Pisa, Italy",IT
+1153,"Halifax, Nova Scotia, Canada",CA
+1154,"UK, Holland, Thailand",TH
+1155,St. Petersburg Russia,RU
+1156,"Vault, Russia",RU
+1157,"Orenburg, Russia",RU
+1158,Boston Massachusetts USA,US
+1159,Manchester UK,GB
+1160,"Craiova, Romania",RO
+1161,"Portland, Oregon USA",US
+1162,"San Francisco, California USA",US
+1163,Bristol UK,UA
+1164,"Chicago, Illinois USA",US
+1165,"Tomar, Portugal",PT
+1166,"Vologda, Russia",RU
+1167,"Caen, France",FR
+1168,"Melancholia, France",FR
+1169,Lyon France,FR
+1170,"Amiens, Fr",FR
+1171,"Reykjavik, Iceland",IS
+1172,"Pawling, NY 12564",US
+1173,Space,FR
+1174,"Baltimore, Maryland 21231",US
+1175,CT,IN
+1176,Connecticut USA,US
+1177,"Saint Petersburg, Fl",US
+1178,"Monterrey, México",MX
+1179,"Gloucester, UK",GB
+1180,"Jooklo Duo - Italy
+Spencer Yeh- Brooklyn, Ohio",
+1181,"Asheville, NC 28801",US
+1182,"Boise, ID 83701",US
+1183,NEW YORK CITY,US
+1184,"Perpignan, France",FR
+1185,Virginia,US
+1186,Dorset. UK.,GB
+1187,"NEW HAVEN, CT",US
+1188,"Coram, New York, USA",US
+1189,Somerville Massachusetts ,US
+1190,"Jutland, Denmark",DK
+1191,Watford,GB
+1192,"Saint Petersburg, FL",US
+1193,"Montreal, Quebec
+Ottawa, Ontario",CA
+1194,"Ithaca, New York",US
+1195,"Berlin, Tokyo",DE
+1196,"Cagliari, Italy",IT
+1197,"Orlando, Florida",US
+1198,"Blackpool, UK",GB
+1199,Lille (France),FR
+1200,"Toronto, ONT",CA
+1201,"Newcastle, NSW, Australia",AU
+1202,"Adelaide, Australia",AU
+1203,"Perth, Australia",AU
+1204,"Takoma Park, MD",US
+1205,"Brooklyn, NYC",US
+1206,Tijuana,MX
+1207,"Brooklyn, NY 11231",US
+1208,"Athens, GA 30601",US
+1209,Galway Ireland,IE
+1210,"New York, NY 10001",US
+1211,"Wichita, KS",US
+1212,"Detroit, MI 48230",US
+1213,Zurich,CH
+1214,"Barcelona, Spain & Osaka, Japan",US
+1215,Amsterdam - Nederlands,NL
+1216,"Rennes, France",FR
+1217,"Burkina Faso, West Africa",BF
+1218,"Colubus, OH",TH
+1219,"Naples, Italy",IT
+1220,"Herten, Germany",DE
+1221,"London, UK
+Stavanger, Norway",
+1222,"Athens, Greece",GR
+1223,"Leicester, UK",GB
+1224,"San Francisco, California",US
+1225,"Fada, Burkina Faso",BF
+1226,"Vladivostok, Russia",RU
+1227,Montreal/Sainte-Cécile-de-Milton - Toronto,
+1228,"Liverpool, UK",UA
+1229,"Athens, Georgia USA",US
+1230,"Orange County, California",US
+1231,CA,VN
+1232,"Montreal, Quebec Bas-Canada",CA
+1233,"Gleisdorf, Austria",AT
+1234,"Reading, UK",GB
+1235,"Portland, OR and Washington, DC",US
+1236,"Sonoma County, CA",US
+1237,"Victoria, Australia",AU
+1238,International,US
+1239,"Bezhetsk, Russia",RU
+1240,"Brooklyn, NY / Richmond, VA",HU
+1241,"Palenque, Colombia",CO
+1242,"Salento, Puglia, Italy",IT
+1243,"Fairfield, CT 06825",US
+1244,"Spring Green, California",US
+1245,"Pitman, NJ",US
+1246,"Chicago, etc.",US
+1247,"Brooklyn, NY 11233",US
+1248,"mexico city, Mexico",MX
+1249,"Pensacola, USA",US
+1250,uk,GB
+1251,"Toronto, Ontario",CA
+1252,"St Brieuc, France",FR
+1253,"Toronto, Canada
+Barbados, West Indies",CA
+1254,"Tokyo, Japan ",JP
+1255,"chicago, il",US
+1256,Maryland,US
+1257,"Calgary, Alberta, Canada.",CA
+1258,buenos aires,AR
+1259,"Biella - (Piedmont,North-West-Italy)",IT
+1260,"Jacksonville, Florida.",US
+1261,"Knin, Croatia",HR
+1262,"Richmond, VA 23222",US
+1263,Hong Kong,CN
+1264,"Portland, Oregon ",US
+1265,"Lakeland, Fl",US
+1266,"Sydney & Melbourne, Australia.",AU
+1267,"San Jose, Puerto Rico",US
+1268,Indiana,US
+1269,Bayonne - Bordeaux (France).,FR
+1270,"Atlanta, GA, USA",US
+1271,"Melbourne, Victoria, 3000",AU
+1272,"Bogota, Colombia",CO
+1273,"Kisumu, Kenya",KE
+1274,"Nyalenda Slum, Kisumu, Kenya",KE
+1275,"Nyawara, Kenya",KE
+1276,"Boston, MA ",US
+1277,"Greenpoint, Brooklyn, NY",US
+1278,Kisumu,KE
+1279,Kisumu/Nairobi,KE
+1280,"Sare, France",FR
+1281,"Shankill, Dublin, Ireland",IE
+1282,Queens/Brooklyn,CA
+1283,"Brooklyn, NY.",US
+1284,Baltimore / DC,US
+1285,"Chicago Illinois 
+Los Angeles California",US
+1286,"Washington, DC, United States",US
+1287,"Iowa City, Iowa, 52245",US
+1288,"Huntington Station, New York",US
+1289,"Brooklyn, New York.",US
+1290,"Gainesville, Florida",US
+1291,"Mississippi, US",US
+1292,"Orange County, California, US",US
+1293,"Chicago and Baltimore, US",US
+1294,"Plymouth, United Kingdom",GB
+1295,"Seattle, Washington, US",US
+1296,"New York City, US",US
+1297,"Venice Beach, California",US
+1298,"Mansfield, Massachusetts, US ",US
+1299,"Αθήνα (Athens), Greece",GR
+1300,"Ann Arbor, Michigan, US",US
+1301,"город Москва, Russia",RU
+1302,"Paris, France and Brussels, Belgium",
+1303,"Mainz, DE
+Brooklyn, NY",FR
+1304,"Glen Rock, New Jersey, US",US
+1305,"Brooklyn, US",US
+1306,"Gloucestershire, UK",GB
+1307,"Ann Arbor, MI",US
+1308,"Southern California, US",US
+1309,"Peterborough, New Hampshire",US
+1310,"Kitee, Finland",FI
+1311,"Düsseldorf, De",DE
+1312,Boston/New York City,US
+1313,"Cagliari,Italy",IT
+1314,madrid,ES
+1315,"Sacramento, California",US
+1316,"Long Island, NY",US
+1317,"Seville, Spain",ES
+1318,"Eugene, Oregon",US
+1319,Toronto Canada,CA
+1320,America,
+1321,connecticut,US
+1322,"Los Angeles, CA USA",US
+1323,Brooklyn via San Francisco and Paris,CO
+1324,San Francisco / Baltimore,US
+1325,"East Susex, UK",GB
+1326,"Toronto, ONT Canada",CA
+1327,Olympia Washington!!!!,US
+1328,"Minas Gerais, Brazil",BR
+1329,"Bristol, Berlin",DE
+1330,"Toronto, ONT (Canada)",CA
+1331,"San Marcos, TX",US
+1332,Nashville,US
+1333,st.petersburg,US
+1334,"Warren, RI 02885",US
+1335,"Los Angeles, CA.",US
+1336,"Ringwood, New Jersey",US
+1337,"Lover's Cove, MO",US
+1338,Ringwood NJ,US
+1339,"Ridgewood, NY 11385",US
+1340,"Montréal, QC
++
+Lille, France",FR
+1341,"Bay Area, USA",US
+1342,"Atlanta, US",US
+1343,Brasil,BR
+1344,The Moon,GB
+1345,"Ringwood, NJ",US
+1346,"San Jose, Costa Rica",CR
+1347,BXL,US
+1348,"new Jersey, United States",US
+1349,"Gijón, Asturias",ES
+1350,"warsaw, poland",PL
+1351,Baltimore / Brooklyn ,US
+1352,"Amherst, MA",US
+1353,"Montréal, PQ",CA
+1354,Berlin / Germany,DE
+1355,"Silver Palace, USA",GB
+1356,Montclair NJ,US
+1357,"Lecce, Italy",IT
+1358,"Tampa, Fl",US
+1359,"Lexington, Kentucky, USA.",US
+1360,"Green Pigeon, Australia",AU
+1361,ringwood NJ,US
+1362,"Johannesburg, South Africa",ZA
+1363,Western Massachusetts. ,US
+1364,TLV,IL
+1365,"Auckland, New Zealand",NZ
+1366,moscow,RU
+1367,"Madeira, Portugal",PT
+1368,"NY, USA",US
+1369,"Houston, TX, USA",US
+1370,"Siberia, Russia",RU
+1371,"Florence, MA, 01062",US
+1372,"Charlotte, NC ",US
+1373,"San Juan, Puerto Rico",US
+1374,"Pittsburgh, Pennsylvania",US
+1375,"Milwaukee, Wisconsin",US
+1376,San Diego,US
+1377,"Oneonta, NY",US
+1378,"Saint Petersburg, Florida",US
+1379,"Bryansk, Russia",RU
+1380,"Lincoln, Midlands, UK",GB
+1381,Somerset,GB
+1382,"Cape Town, South Africa",ZA
+1383,"Hillerød, Denmark",DK
+1384,"Washington, D.C.",US
+1385,"Barranquilla, Colombia",CO
+1386,"Coventry, Britain",GB
+1387,Strasbourg,FR
+1388,Finland/Netherlands,NL
+1389,"kanazawa, Japan",JP
+1390,"Boulder, Colorado",US
+1391,japan,JP
+1392,"tokyo, japan",JP
+1393,Copenhagen,DK
+1394,"Nashville, Tennessee",US
+1395,"Brooklyn, NY and Philadelphia, PA",US
+1396,Oneonta New York,US
+1397,"New Orleans, Louisiana",US
+1398,"Norrköping, Sweden",SE
+1399,"hiroshima, japan",JP
+1400,"Queensland, Australia",AU
+1401,Colarado,EC
+1402,NY and NJ,TM
+1403,osakasakas,
+1404,North Carolina,US
+1405,Freezeland,US
+1406,"Hamilton, New Zealand",NZ
+1407,"Dunedin, New Zealand",NZ
+1408,"Izhevsk, Russian Federation",RU
+1409,"Ardsley, NY",US
+1410,"Family Visions, St. Louis, MO",US
+1411,"Ottawa, Ontario, Canada",CA
+1412,Melbourne,AU
+1413,Goteborg,SE
+1414,"Cairo, Egypt",EG
+1415,"Utrecht, NL",NL
+1416,"London, United Kingdom",GB
+1417,"Charlottesville, VA",US
+1418,"Athens, GR",GR
+1419,"Wivenhoe, Essex, UK",GB
+1420,Iran,IR
+1421,"Kent, OH",US
+1422,"Yogyakarta, Indonesia
+Melbourne, Australia",AU
+1423,"Montréal, Québec",CA
+1424,"In the jungle north of Sydney, Australia.",AU
+1425,"NYC & Windsor, Ontario",CA
+1426,"Atlanta, Georgia",US
+1427,"Salvador, Brazil",BR
+1428,"São Paolo, Brazil",BR
+1429,"Recife, Brazil",BR
+1430,"Melilla, Spain",ES
+1431,"Rochester, NY",US
+1432,"London, England, UK",GB
+1433,"St. Louis, MO",US
+1434,Lisbon,PT
+1435,Northern NJ,US
+1436,"Amherst, Massachusetts ",US
+1437,"Melbourne, Victoria, Australia",AU
+1438,New York & Baltimore,US
+1439,"Subotica, Belgrade, Serbia",RS
+1440,binghamton NY,US
+1441,"Kansas City, USA",US
+1442,"Savannah, GA",US
+1443,"Pensacola, Florida",US
+1444,"Wilmington, NC",US
+1445,"Slack Space, Victoria Place, Colchester.
+
+Slack Space is a volunteer run initiative to create arts and community usage of empty shops and locations, in order to promote local artists, present new and exciting work to the public and generate a cultural buzz in the town centre.",
+1446,Tokyo & Kyushu,JP
+1447,South Carolina,US
+1448,Massachusetts ,US
+1449,"Monterey, CA/Lake Butler, FL",US
+1450,"Bridgend
+Wales
+CF31 2LB",GB
+1451,Helsinki (Finland) / Barcelona (Spain),FI
+1452,"Philadelphia, Pennsylvania ",US
+1453,Berlin ,DE
+1454,"Kansas City, MO",US
+1455,"Minneapolis, Minnesota",US
+1456,Oneonta New York 13820,US
+1457,"SKG, Greece",GR
+1458,italy,IT
+1459,"Eagle Rock, California, USA",US
+1460,"Salvador, Bahia, Brasil",BR
+1461,"Bahia, Brasil",BR
+1462,"Salvador, Bahia Brazil",BR
+1463,"Bahia, Brazil",BR
+1464,"New York City, NY and Berlin, Germany",
+1465,Portugal / USA,PT
+1466,Netherlands / Belgium / Germany,NL
+1467,"Oporto, Portugal",PT
+1468,"Lamego, Portugal.",PT
+1469,"Bolingbrook, Illinois",US
+1470,"Saitama, Japan",JP
+1471,Lisboa,PT
+1472,"Bethlehem, Pennsylvania",US
+1473,"Detroit, Mi.",US
+1474,Los Angeles/ San Francisco,US
+1475,"Perugia, Italy",IT
+1476,"Cascais, Portugal",PT
+1477,"Alcorcón, Spain",ES
+1478,Vienna,AT
+1479,"Geneva, NY",US
+1480,"Braga, Portugal",PT
+1481,"Coimbra, Portugal",PT
+1482,Montréal,CA
+1483,"Hamtramck, Mi.",US
+1484,"Fullerton, CA",US
+1485,"Harrow, UK",GB
+1486,"Rye, NY",GB
+1487,"Baltimore, MD.",US
+1488,Czech Republic,CZ
+1489,BRAZIL,BR
+1490,prague,CZ
+1491,bratislava,SK
+1492,"Pančevo, Serbia",RS
+1493,"Dronten, Netherlands",NL
+1494,"Niagara Falls, Canada",CA
+1495,"New York, New York, U.S.",US
+1496,"berlin, germany",DE
+1497,"New Orleans, Louisiana, U.S.",US
+1498,"Lancaster, Pennsylvania",US
+1499,"Manhattan, New York",US
+1500,"Denton, Texas, U.S.",US
+1501,"Philadelphia, Pennsylvania, U.S.",US
+1502,"Rotterdam, Netherlands",NL
+1503,"Gradec, Austria",AT
+1504,"Oakland, CA. ",US
+1505,"Berkeley, CA 94702",US
+1506,"Brooklyn, New York 11221",US
+1507,"Hämeenlinna, Finland",FI
+1508,"Oulu, Finland",FI
+1509,"Montreal, Québec",CA
+1510,"Braddock, PA",US
+1511,"Salford, UK",GB
+1512,"Sheffield, Britain (UK)",CN
+1513,"Bellingham, WA",US
+1514,"Goiânia, GO",BR
+1515,"Lafayette, Louisiana",US
+1516,"Lille, France",FR
+1517,"Rapid City, South Dakota",US
+1518,Toronto/Montreal,CA
+1519,"Dunfermline, Fife., Britain (UK)",GB
+1520,"New Cumberland, PA",US
+1521,"Suffolk County, New York",US
+1522,"Fort Lauderdale, FL",US
+1523,Galiza,PT
+1524,"Bay Area, California",US
+1525,Bristol,GB
+1526,"Novosibirsk, Russia",RU
+1527,"Volkovysk, Belarus",BY
+1528,"Göteborg, Sweden",SE
+1529,"Charleston, SC",US
+1530,"Pittsburg, Pennsylvania",US
+1531,Leeds UK,GB
+1532,"New Paltz, NY 12561",US
+1533,"Knob Knee, Indiana
+47150",US
+1534,"Banatsko Novo Selo, Vojvodina, Yugoslavia",RS
+1535,"Belgrade & Pančevo, Serbia",RS
+1536,"Petrozavodsk, Russian",RU
+1537,"St Louis, Missouri",US
+1538,"Moskow, Russia",RU
+1539,"Tucson, Arizona, USA",US
+1540,puerto rico,US
+1541,"Los Angeles, California ",US
+1542,"Kryvorivnia, Ukraine",UA
+1543,"Tulsa, OK",US
+1544,"Nantes, France",FR
+1545,new england,US
+1546,south carolina ,US
+1547,"providence, ri",US
+1548,"Jared C. Balogh: Pennsylvania, U.S.A.
+Charles Rice Goff III: Kansas, U.S.A.",
+1549,"Kiev, Ukraine",UA
+1550,New Zealand/Finland,NZ
+1551,"Detroit, MI.",US
+1552,"Oakland, United States",US
+1553,N4 3LN,CA
+1554,Tel Aviv. Israel,IL
+1555,Tangmere,GB
+1556,"Orlando, FL",US
+1557,"Brooklyn, New-York",US
+1558,"St. Paul, MN",US
+1559,United States of America,US
+1560,"Nesodden, Norway",NO
+1561,"Gaia, Portugal",PT
+1562,"Chicago, IL, USA",US
+1563,"St.Petersburg, Russia",RU
+1564,"Toulouse, Midi-Pyrénées, France",FR
+1565,"London, UK
+Austin, TX",GB
+1566,New York State,US
+1567,"Massachusetts, USA",US
+1568,"Fort Myer, Virginia, USA",US
+1569,finland,FI
+1570,"Derby, England, U.K",GB
+1571," Edmonton, Alberta, Canada.",CA
+1572,"Sofia, Bulgaria",BG
+1573,Volzhskiy,RU
+1574,"Volzhskiy, Russia",RU
+1575,"Winnipeg, Canada",CA
+1576,Lithuania,LT
+1577,"Dallas, TX",US
+1578,"Yuzhno-Sakhalinsk, Russia",RU
+1579,"Saratov, Russia",RU
+1580,"Brooklyn, NY 11237",US
+1581,Tokyo,JP
+1582,Switzerland,CH
+1583,"Puerto Rico
+Washington, USA",US
+1584,"international
+Russia
+Indonesia
+Ukraine",
+1585,UK/USA,TZ
+1586,"Hoorn, Netherlands",NL
+1587,"Perm, Russia",RU
+1588,"Bilbao, Basque Country (Spain)",ES
+1589,"Jersey City, New Jersey",US
+1590,"Offenbach, Germany",DE
+1591,Italy/Germany,IT
+1592,spain,ES
+1593,Baltimore (USA),US
+1594,"Buffalo, New York",US
+1595,Barcelona (Spain),ES
+1596,Germany/UK,DE
+1597,Finland + Holland,NL
+1598,"New Brunswick, NJ.",US
+1599,Brooklyn. NY,US
+1600,"Penza, Russia",RU
+1601,"brattleboro, VT",US
+1602,"Britain, UK",PG
+1603,germany,DE
+1604,"Varaždin, Croatia",HR
+1605,"Paris, FR",FR
+1606,"Manchester, United Kingdom",GB
+1607,"Montreal, QC",CA
+1608,"Konakovo, Russia",RU
+1609,Pancevo (Serbia),RS
+1610,"Ernesto Bohorquez: (Peru/Poland/England)
+Jared C. Balogh: (Pennsylvania, U.S.A.)",
+1611,"Olympia, WA",US
+1612,Chita [Russia],RU
+1613,"Cologne and Stuttgart, Germany",DE
+1614,"Chile
+France
+Deutschland",CL
+1615,Serbia,RS
+1616,"subotica, serbia",RS
+1617,"Novi Sad, Serbia",RS
+1618,Nis,RS
+1619,"Tambov, Kotovsk; Russia",RU
+1620,"London, England.",GB
+1621,Texas & Brooklyn,US
+1622,"Montreal, Canada & Paris, France",CA
+1623,"Once existed in the city of Monterrey, México. ",
+1624,Boston & New York ,US
+1625,"Sunnyvale, CA",US
+1626,"Astrakhan/Chita, Russia",RU
+1627,"Poznań, Poland",PL
+1628,"Oxford, England",GB
+1629,"Connecticut / Brooklyn, USA",US
+1630,"Sussex, UK",GB
+1631,"Calgary, Alberta, Canada",CA
+1632,Den Haag,NL
+1633,"Brookly, NY",US
+1634,"NY, NY",NO
+1635,"Carrboro/Chapel Hill, North Carolina",US
+1636,Brooklyn/Kenya,KE
+1637,"Barnsley, UK",GB
+1638,"Geneva, NY 14456",US
+1639,"Dennis, MA",US
+1640,"Strafford, NH",US
+1641,"Oakland, USA",US
+1642,"Lawrence, Kansas",US
+1643,"Queens, New York City",US
+1644,"Victoria, BC",CA
+1645,"Naugatuck, CT 06770",US
+1646,Rhode Island,US
+1647,"Amsterdam, Netherlands & Paris, France",FR
+1648,"Washington, District of Columbia, USA",US
+1649,Newcastle upon Tyne,GB
+1650,"Calgary, Alberta",CA
+1651,"Moscow, Russia, 109542",RU
+1652,serbia and portugal,RS
+1653,"Taos, NM 87571",US
+1654,chile,CL
+1655,"Kyiv, Ukraine",UA
+1656,"Alberta, Canada",CA
+1657,usa,JP
+1658,"Kharkov, Ukraine",UA
+1659,Brooklyn & Baltimore,US
+1660,Bay Area (SF & Oakland),US
+1661,"Piekary Slaskie, Poland",PL
+1662,Pennsylvania,US
+1663,Copenhagen/Aarhus,DK
+1664,"Stockton-on-Tees, England",GB
+1665,Caen,FR
+1666,"Maribor, Slovenia",SI
+1667,"Romero de Terreros, Distrito Federal, Mexico",MX
+1668,"Tokyo, Japan/New York City",JP
+1669,"Brooklyn, NY
+Los Angeles, CA",US
+1670,"Mendoza, Argentina",AR
+1671,Uruguay,UY
+1672,"Laval, France",FR
+1673,Pancevo,RS
+1674,México,MX
+1675,"Black Mountain, NC",US
+1676,"Weymouth, MA",US
+1677,"Khabarovsk, Russia",RU
+1678,Moldavia,RO
+1679,"Trnava, Slovakia",SK
+1680,Prague,CZ
+1681,Slovakia,SK
+1682,"Astrakhan/Petrozavodsk, Russia",RU
+1683,"Bratislava, Slovakia",SK
+1684,"Kent, Ohio",US
+1685,"Woonsocket, RI",US
+1686,"Newport News, Virginia",US
+1687,Bay Area California,US
+1688,"Wales, UK.",GB
+1689,"Ulyanovsk, Russia",RU
+1690,"Jamaica Plain, MA",US
+1691,Ukraine,UA
+1692,Russia / United States,US
+1693,"Montreal, Qc",CA
+1694,"Walla Walla, Washington",US
+1695,"Zadar, Croatia",HR
+1696,Portugal/France,FR
+1697,"08543
+",DE
+1698,Malta,MT
+1699,"buenos aires, amsterdam",AR
+1700,"Abakan, Russia",RU
+1701,UNITED STATES,US
+1702,"Donetsk, Ukraine",UA
+1703,"Dolná Krupá, Slovakia",SK
+1704,"Boston, MA
+Philly, PA",US
+1705,"Dubnica nad Váhom, Slovakia",SK
+1706,"San Diego, California ",US
+1707,"NAGOYA, Japan",JP
+1708,"St. Petersburg, FL",US
+1709,bilbao,ES
+1710,Brooklyn/Philadelphia,US
+1711,Melbourne and Stockholm,AU
+1712,"Utrecht, the Netherlands",NL
+1713,"Cagliari, SARDINIA",IT
+1714,leechrum,
+1715,Galway,IE
+1716," Montréal, Québec, Canada",CA
+1717," Madrid, Spain",ES
+1718,"Dubai, United Arab Emirates",AE
+1719,vienna,AT
+1720,"Nouakchott, Mauritania",MR
+1721,"Washington DC & Lausanne, Switzerland",
+1722,"Chicago, IL USA",US
+1723,"Trenčín, Slovakia",SK
+1724,"New York City
+Maryland",US
+1725,"Bristol, Rhode Island",US
+1726,"- Bagdad, Iraq
+- Sweden",IQ
+1727,"Šenkvice, Slovakia",SK
+1728,Brooklyn. NY 11237,US
+1729,"Toronto/Montreal, Canada",CA
+1730,"Saint Petersburg, Russia",RU
+1731,providence,US
+1732,"New Brunswick, New Jersey",US
+1733,"Colorado Springs, Colorado",US
+1734,"Ufa, Russia",RU
+1735,"San Francisco, California 94116",US
+1736,"Rockland County, NY",US
+1737,"Barnsley, England",GB
+1738,Portugal / UK,UA
+1739,Colombia / USA,CO
+1740,"France, Paris",FR
+1741,Hamburg,DE
+1742,Uk,GB
+1743,"Cheshire, CT",US
+1744,"Bath, England",GB
+1745,France/ Germany,DE
+1746,chicago. san francisco.,US
+1747,"Dallas, Texas",US
+1748,"Argentina, Buenos Aires",AR
+1749,Bi-Coastal,PH
+1750,"Middlesex, VT",US
+1751,New Jersey / New York,US
+1752,"Toronto, ON",CA
+1753,"Stránske, Slovakia",SK
+1754,"Kaliningrad, Russia",RU
+1755,"Russia, Kemerovo",RU
+1756,"Auckland, New Zealand ",NZ
+1757,"Russia, Voronezh",RU
+1758,"East Providence, RI",BS
+1759,"North Haledon, NJ",US
+1760,"Booklyn, NYC, USA",HU
+1761,chicago / barcelona,US
+1762,buenos aires / santiago de chile,CL
+1763,"Moscow
+Paris",RU
+1764,"Nis, Serbia",RS
+1765,Pirot Serbia,RS
+1766,"Grass Valley, CA",US
+1767,"Komjatice, Slovakia",SK
+1768,"Slovakia,Dremland",SK
+1769,"Goiânia, GO, Brazil",BR
+1770,"Brookline, MA",US
+1771,"Catonsville, MD",US
+1772,"Montréal, Canada",CA
+1773,"mexico beach, fl 32456",US
+1774,"LA,PA,MA,NY",MM
+1775,Riga,LV
+1776,"France, Greece, Switzerland",US
+1777,"providence, RI
+berlin, DE",DE
+1778,"providence, RI / nyc",US
+1779,Belguim,US
+1780,"El Cerrito, CA, USA",US
+1781,"Littleton, NH",US
+1782,"Montréal, Quebec",CA
+1783,"Galanta, Slovakia",SK
+1784,MA,US
+1785,"Odivelas, Lisbon, Portugal",PT
+1786,New England,US
+1787,baltimore - d.c.,US
+1788,czech republic,CZ
+1789,Bostrone MAss us,YE
+1790,"Evanston, Illinois",US
+1791,quebec,CA
+1792,"Bayonne, NJ, USA",US
+1793,Russia/Ukraine/Lithuania,LT
+1794,"Boulder, CO",US
+1795,"England, West Yorkshire",GB
+1796,"Cedar Creek TX.
+78612",US
+1797,Earth,US
+1798,"Azores, Portugal",PT
+1799,"Lehigh Valley, Pennsylvania",US
+1800,"Bangor, ME",FR
+1801,Newcastle Upon Tyne,GB
+1802,Berlin - Germany,DE
+1803,Belgique,BE
+1804,St Louis (United States),US
+1805,Genova (Italy),IT
+1806,Reading (England),GB
+1807,Naperville (USA),US
+1808,Madison (USA),US
+1809,Malmö (Sweden),SE
+1810,Oak Park (USA),US
+1811,Leeds of West Yorkshire (England),GB
+1812,Martorell (Spain),ES
+1813,Rabat (Morocco),MA
+1814,New York (USA),US
+1815,Seattle (USA),US
+1816,Barcelone (Spain),ES
+1817,Milan (Italy),IT
+1818,Barcelonne (Espagne),FR
+1819,Cordoba (Spain),ES
+1820,tokyo/paris,FR
+1821,Zaragoza (Spain),ES
+1822,Buenos Aires (Argentina),AR
+1823,Rostov-na-Donu (Russia),RU
+1824,Montreal (Canada),CA
+1825,"Lehigh Valley, Pennsylvania, U.S.A.",US
+1826,Atlanta (USA),US
+1827,Los Angeles (USA),US
+1828,"Edinburgh, UK. ",GB
+1829,Kiev (Ukraine),UA
+1830,"Binghamton, New York 13905",US
+1831,"Banska Bystrica, Slovakia",SK
+1832,"Freiburg, Germany",DE
+1833,Brussels - Belgium,BE
+1834,new jersey,US
+1835,"Rostov, Russia",RU
+1836,Halifax/Alingsås,CA
+1837,"Petrozavodsk, Saint Petersburg
+Russian Federation",RU
+1838,"Boston
+Maryland",US
+1839,Michigan ,US
+1840,Nijmegen,NL
+1841,"indianapolis, indiana",US
+1842,The Internet,PE
+1843,england,GB
+1844,hamburg,DE
+1845,"Liège, Belgium. ",BE
+1846,"Easthampton, Massachusetts",US
+1847,"Barcelona, SPAIN",ES
+1848,"Brookyn, NY",NO
+1849,"Brooklyn, NY / Jersey City, NJ",
+1850,"Mike Watt / San Pedro, California
+Stefano Pilia / Bologna, Italy
+Andrea Belfi / Berlin, Germany",
+1851,Beijing,CN
+1852,South Africa,ZA
+1853,"Hlohovec, Slovakia",SK
+1854,"Durham, North Carolina",US
+1855,"Hackensack, New Jersey",US
+1856,"Pesaro, Italy",IT
+1857,new york city,US
+1858,"MA, USA - 01760",US
+1859,"North Bay, Canada",CA
+1860,"Montréal, QC",CA
+1861,"Syracuse, New York",US
+1862,"Nottingham, United Kingdom",GB
+1863,"Szeged, Hungary",HU
+1864,United-States (Illinois),US
+1865,NL-7481JP,US
+1866,"Córdoba, Argentina",AR
+1867,"St. John'S, Newfoundland and Labrador",CA
+1868,#somewhereOverTheMerzbow,
+1869,Nijmegen / Netherlands,NL
+1870,"Manila, Philippines",PH
+1871,"Cornwall, NY",US
+1872,"Petrozavodsk
+RUSSIA",RU
+1873,Moskow (Russia),RU
+1874,"Oklahoma City, United States",US
+1875,"Philadelphia, PA, United States",US
+1876,"Chicago, IL 60651",US
+1877,north wales,US
+1878,london,GB
+1879,"Utrecht, The Netherlands",NL
+1880,Voronezh [Russia],RU
+1881,Odessa [UKRAINE],UA
+1882,Saint-Petersburg [Russia],RU
+1883,"Lexington, Kentucky",US
+1884,"MA, USA",US
+1885,"Viana Do Castelo, Portugal",PT
+1886,"Syracuse, NY",US
+1887,"NJ, USA",US
+1888,"Beacon, NY",US
+1889,"San Francisco, CA 94116",US
+1890,Sheffield,GB
+1891,"From Italy, now based in London.",
+1892,"St Petersburg, Russia",RU
+1893,marseille,FR
+1894,Cavan,IE
+1895,Moskow [Russia],RU
+1896,"austin, tx",US
+1897,"London, New York",US
+1898,"Charlotte, North Carolina, USA",US
+1899,In Our Heads,IN
+1900,"Austin, Tx",US
+1901,"Baden, Switzerland",CH
+1902,"Portland, OR, USA",US
+1903,"Madison, Wisconsin",US
+1904,Guelph,CA
+1905,"Lytkarino, Russia",RU
+1906,"Nottingham, Britain (UK)",US
+1907,"Spain, Barcelona",ES
+1908,"Hoboken, NJ",US
+1909,"Kitchener-Waterloo, Ontario",CA
+1910,"Chapel Hill, North Carolina",US
+1911,"Galway, Ireland ",IE
+1912,"Phoenix, Arizona",US
+1913,11377,US
+1914,"Atlanta, Georgia, USA",US
+1915,"AUSTIN, TX",US
+1916,"Malmoe, Sweden.",SE
+1917,The forests of Sweden.,IL
+1918,"Portland, US",US
+1919,"Trnava - Slovakia
+Orava - Slovakia",SK
+1920,"Charlottesville, VA / Atlanta, GA",FR
+1921,"Memphis, Tennessee",US
+1922,"Pisa, Italy",IT
+1923,Montreal/Cairo,FR
+1924,Valencia [Spain],ES
+1925,"Providence, RI 02903",US
+1926,"""In the facist pig USA""",BS
+1927,"Bridport, Dorset",AU
+1928,"Metz, France",FR
+1929,"Milwaukee, Wisconsin, United States, Earth.",US
+1930,Ginebra,CO
+1931,BKNY,US
+1932,"Toowoomba, Australia",AU
+1933,"Milwaukee, United States ",US
+1934,"Portland, Oregon 97214",US
+1935,Tennessee,US
+1936," 	
+
+Stow, OH USA",US
+1937,"Brescia, Italy",IT
+1938,"Chicago, Illinois, USA",US
+1939,"Revere, MA",US
+1940,"San Jose, CA",CR
+1941,"Provo, UT USA",US
+1942,Portland OR.,US
+1943,"Kraichgau, Germany",DE
+1944,"Pennsylvania, United States",US
+1945,"United States, Japan",JP
+1946,"Past - Moscow, Russia
+Resent - Brooklyn, NY, USA",
+1947,Kazakhstan,KZ
+1948,"Ávila‎, Spain",ES
+1949,memories,LA
+1950,"Portland, Maine",US
+1951,"Zevenaar, Netherlands",NL
+1952,Planet Earth,IN
+1953,NJ/NYC,US
+1954,"Lunenets(Minsk), Belarus",BY
+1955,"Toronto, Canada, M4C 2V9",CA
+1956,Nottinghamshire,GB
+1957,"Berlin, Chicago, Malmö",GH
+1958,"Brighton, U K",GB
+1959,"Lviv [Ukrainian]
+",UA
+1960,"Southampton, UK",GB
+1961,"Chico, CA",US
+1962,"California, US",SV
+1963,"10 av sainte Gertrude
+1348 Louvain-la-Neuve
+Belgium",BE
+1964,"Almada, Portugal",PT
+1965,"Chicago, IL ",US
+1966,Berlin/Perm,DE
+1967,"Funkville, U.S.A.",US
+1968,"Hardcoreland, U.S.A.",US
+1969,Dayton (United States),US
+1970,Lyon,FR
+1971,Venice (Italy),IT
+1972,"Almería, Spain",ES
+1973,Sao Paulo (Brazil),BR
+1974,London (UK),GB
+1975,Brooklyn / Queens,CA
+1976,"Oporto, Portugal.",PT
+1977,"Baltimore, Maryland ",US
+1978,"Killie, Scotland",GB
+1979,"Quebec City, Canada",CA
+1980,"Queens, New York",US
+1981,Brooklyn NY > SLC Utah,US
+1982,"Nyack, NY",US
+1983,"Carrboro, NC",US
+1984,"Bussum, Netherlands",NL
+1985,"Porta Westfalica, Germany",DE
+1986,Oakland CA,US
+1987,berlin,DE
+1988,"Salem, Massachusetts",US
+1989,"Languedoc-Roussillon, France",FR
+1990,Russie,FR
+1991,"Teramo, Italy",IT
+1992,"Lynchburg, VA",US
+1993,"Amherst, Massachusetts",US
+1994,"Eugene, OR",US
+1995,"California, United States",US
+1996,"Ufa [Republic of Bashkortostan, Russia]",RU
+1997,"Keene, New Hampshire",US
+1998,Toronto ,CA
+1999,Roanoke (United States),US
+2000,"Sydney Australia
+Yogyakarta Indonesia",
+2001,Rosario (Argentina),AR
+2002,Paris (France),FR
+2003,Geneva ,CH
+2004,Orléans (France),FR
+2005,earth,US
+2006,Oslo,NO
+2007,"Vancouver, British Columbia",CA
+2008,"Indiana, USA",US
+2009,"Hlavní město Praha, Czech Republic",CZ
+2010,"Rimouski, Québec",CA
+2011,"New Jersey, US",US
+2012,"Germany, USA",DE
+2013,the Netherlands,GB
+2014,"20570 Turku, Finland",FI
+2015,"Stoughton, WI",US
+2016,Leicester,GB
+2017,"Perth, Western Australia... 6019",AU
+2018,"Houston, Texas",US
+2019,"Cluj, Romania",RO
+2020,"Fredericksburg, VA 22401",US
+2021,"Talcahuano, Chile",CL
+2022,Western Massachusetts,US
+2023,"North Judson, Indiana",US
+2024,France & Chile.,FR
+2025,milan,IT
+2026,"Levice / Bratislava, Slovakia",SK
+2027,San Pedro,PH
+2028,"İzmir, Turkey",TR
+2029,"kenosha, wisconsin
+chicago, illinois",US
+2030,"portland, oregon",US
+2031,"st. petersburg, russia",RU
+2032,"Petrozavodsk, Russian Federation",RU
+2033,Québec,CA
+2034,"Vicenza, Italy",IT
+2035,Athlone,IE
+2036,"Royan, France",FR
+2037,"Winnipeg, Manitoba",CA
+2038,NYC / New Jersey,US
+2039,Anaheim CA,US
+2040,"Ryazan, Russia",RU
+2041,"The Web
+Memories
+",TH
+2042,Holland/U.S.A.,US
+2043,"Parma, Italy",IT
+2044,Italy/Japan,JP
+2045,Italy/London,IT
+2046,"Palermo, Italy / Belgium",IT
+2047,"Oberlin, OH",US
+2048,"Lehigh Valley, Pennsylvania U.S.A.",US
+2049,"Georgia, United States
+London, United Kingdom",GB
+2050,"Chicago, Illinois.",US
+2051,"Ciudad Autónoma De Buenos Aires, Argentina",AR
+2052,"Saint Sulpice De Ruffec, France",FR
+2053,"Kingston, NY",US
+2054,U.S.A.,US
+2055,"Houston, USA",US
+2056,"Lodi, Italy",IT
+2057,"Washington, DC/Baltimore, MD",US
+2058,"Thessaloniki, Greece",GR
+2059,"Nuoro, Italy",IT
+2060,"Northampton
+",GB
+2061,Jersey City/Union City,US
+2062,"Asheville, North Carolina",US
+2063,"Ithaca, NY",US
+2064,"melbourne
+zurich
+taiwan",AU
+2065,"IE, CA",ES
+2066,"Abilene, Texas",US
+2067,Madrid (Spain),ES
+2068,Berlin (Germany),DE
+2069,"Chicago, Il",US
+2070,"Vandalia, Ohio",US
+2071,"Tachikawa, Tokyo ( Japan )",JP
+2072,Yamaguchi ( Japan ),JP
+2073,Sendai ( Japan ),JP
+2074,"Hachinohe, Aomori ( Japan )",JP
+2075,"Nagoya, Aichi ( Japan )",JP
+2076,"Linköping, Sweden",SE
+2077,Quebec,CA
+2078,"Galanta/Sereď, Slovakia",SK
+2079,"Santiago de chile, Chile",CL
+2080,Cardiff,GB
+2081,"Jersey City, NJ 07302",US
+2082,Seattle & Portland,BR
+2083,"Bregenz, Austria",AT
+2084,"Dawson, Yukon",CA
+2085,"Tenafly, NJ",US
+2086,"Ljubljana, Slovenia",SI
+2087,"Perryville, MO",US
+2088,NJ USA,US
+2089,Alaska,US
+2090,"Buckinghamshire, England",GB
+2091,rome,IT
+2092,"Ames, Iowa",US
+2093,"Stamford, CT",US
+2094,"Braunschweig, Germany",DE
+2095,Saratov [Russia],RU
+2096,"Louisville, KY",US
+2097,"Bangalore, India",IN
+2098,"Bamberg, Germany",DE
+2099,Tonga,TO
+2100,"France, normandy",FR
+2101,"poland, spain",PL
+2102,"Žilina, Slovakia",SK
+2103,"Arkansas, USA",US
+2104,Crimea,RU
+2105,"maryland
+ohio",US
+2106,"Asheville, North Carolina, United States",US
+2107,"Regensburg, Germany",DE
+2108,Pittsburgh ,US
+2109,"Gold Coast, Australia",AU
+2110,Cyprus,CY
+2111,"South London, UK",GB
+2112,china,CN
+2113,"Hampton, GA",GB
+2114,"Wisconsin, US",US
+2115,"Uppsala, Sweden",SE
+2116,"Sicily, Italy",IT
+2117,"Haifa, London",GB
+2118,"Munich, Germany",DE
+2119,"Lakewood, United States",US
+2120,"Hudson County, NJ",US
+2121,"Teesside, England",GB
+2122,"Saskatoon, Saskatchewan",CA
+2123,"Lehigh Valley, Pennsylvania (U.S.A.)",US
+2124,Estonia,EE
+2125,"Nova Scotia, Canada",CA
+2126,"Oakland, CA or Brooklyn, NY",US
+2127,"Göppingen, Germany",DE
+2128,"Curitiba, Brazil",BR
+2129,Berlin/Italy,IT
+2130,"Palm Beach, Florida",US
+2131,paris,FR
+2132,Near but after Pluto,
+2133,"Ibaraki, Japan",JP
+2134,"Massachusetts/Rhode Island, U.S.A.",US
+2135,"Le Mans, France",FR
+2136,"Wümme, Germany",DE
+2137,"Marburg, Germany",DE
+2138,"Spain, Madrid",ES
+2139,"Sayreville, New Jersey",US
+2140,washington dc,US
+2141,France - Sweden,FR
+2142,"Moss, Norway",NO
+2143,"Piedmont, North Carolina",US
+2144,"Greensboro, North Carolina",US
+2145,Austria - France,AT
+2146,France - Norway,NO
+2147,France - USA,FR
+2148,USA - France,FR
+2149,Luxemburg,US
+2150,Sweden - USA,SE
+2151,Finland - Sweden,SE
+2152,British Columbia,CA
+2153,"Wiscasset, Maine and Gettysburg, PA",
+2154,"Ponce, PR",EC
+2155,Spain - Germany,DE
+2156,"Herborn, Germany",DE
+2157,"Brisbane, Australia.",AU
+2158,"Shrewsbury, UK",GB
+2159,"Jhansi, India.",IN
+2160,"Kingston, Jamaica",JM
+2161,"buenos aires, etc. ",AR
+2162,USA - Germany,DE
+2163,Knoxville TN,US
+2164,Portland Or.,US
+2165,"Paris, France.",FR
+2166,"Olympia, Wa",US
+2167,"montevideo, uruguay",UY
+2168,Petrozavodsk [Russia],RU
+2169,Göppingen,DE
+2170,"russia
+finland",RU
+2171,"Roma, Italy",IT
+2172,"New Haven, Connecticut",US
+2173,Andorra,AD
+2174,"Tel Aviv Yafo, Israel",IL
+2175,"Terrassa, Spain",ES
+2176,"Duffel, Belgium",BE
+2177,"Fayetteville, NC",US
+2178,"Québec, Finland",CA
+2179,"San Diego, California",US
+2180,Italt/Japan,JP
+2181,"Knoxville, TN",US
+2182,"Boone, North Carolina",US
+2183,Cambridge,US
+2184,"Boise, ID",US
+2185,"Nampa, ID",US
+2186,"Luanda, Angola
+Lisboa,Portugal",AO
+2187,Radstock UK,GB
+2188,"Norwich, England",GB
+2189,"Sevilla, Barcelona, Spain",ES
+2190,Baltimore MD,US
+2191,"Austin, Tx ",US
+2192,Japan / Italy,JP
+2193,"Ferrara, Italy",IT
+2194,"Portland, Or.",US
+2195,Liverpool,GB
+2196,"Hannover, Germany",DE
+2197,"Seacliff, NY",IE
+2198,"Vaksdal, Norway",NO
+2199,Toronto/Seattle,CA
+2200,"Toronto, Ontario, CA.",CA
+2201,Belgium // Holland,BE
+2202,"город Новосибирск, Russian Federation",
+2203,"Sweden, Småland",SE
+2204,China - Germany,CN
+2205,"Lethbridge, Alberta, Canada",CA
+2206,Rajasthan,IN
+2207,hamburg / hanoi,DE
+2208,RUSSIA PERM,RU
+2209,"Krasnodar, Russia",RU
+2210,"Borisoglebsk, Russia",RU
+2211,USA - New Zealand,NZ
+2212,"Camden, NJ",US
+2213,Kanada,PL
+2214,"Normandy, France",FR
+2215,"bogotá, colombia",CO
+2216,"Kyoto, Japan",JP
+2217,"Pistoia, Italy",IT
+2218,Russia / Podolsk,RU
+2219,"Hainesville, Illinois",US
+2220,"Oberlin, Ohio",US
+2221,"Rosario, Argentina",AR
+2222,"Θεσσαλονίκη, Greece",GR
+2223,"Ourense, Spain",ES
+2224,"Harrison, New York",US
+2225,Hoboken NJ,US
+2226,"Vinalhaven, Maine, USA ",US
+2227,Australia/New Zealand,AU
+2228,NYC/Australia,US
+2229,"Daniel Barbiero: Silver Spring, MD
+Cristiano Bocci: Grosseto, Italy",
+2230,"Waterloon, Ontario ( Canada )
+St. Croix, US Virgin Islands
+Cheongju Si, South Korea",
+2231,Hamilton/Barcelona,ES
+2232,"Cape Breton ( Nova Scotia, Canada ) ",CA
+2233,"Reims, France",FR
+2234,"Buenos Aires, Argentina, Sudamèrica (aunque con problemas de orientaciòn)",
+2235,"Melbourne
+Sydney
+Ireland",IE
+2236,"San Martin, Villa Ballester, Chilavert, Buenos Aires, Argentina",AR
+2237,New York/Boston,US
+2238,"Nevada City, CA",US
+2239,"Tbilisi, Georgia",GE
+2240,Austin,US
+2241,"Manitoba, Canada",CA
+2242,UK & USA,TZ
+2243,"Fairfield, Iowa, USA",US
+2244,"West Chezzetcook, Nova Scotia",CA
+2245,"Canton, Ohio",US
+2246,Edinburgh Scotland and Cambridge U.S.A ,GB
+2247,"Nantes, Fr.",FR
+2248,"Toulouse, Fr.",FR
+2249,santiago de chile,CL
+2250,"Baltimore, MD ",US
+2251,"Miyazaki, Japan",JP
+2252,Palma de Mallorca,ES
+2253,"Odemira, Portugal",PT
+2254,"Asbury Park, NJ",US
+2255,"From Dover, DE-Lives in Spring Valley, NY",
+2256,"Montpellier, France",FR
+2257,"Denver, Colorado",US
+2258,"Ohio, United States",US
+2259,"Firenze, Italy",IT
+2260,"New Paltz, NY",US
+2261,"Bruntál, Czechoslovakia",CZ
+2262,"Cordoba, Argentina",AR
+2263,Asti,IT
+2264,"Cheongju Si, South Korea
+
+",KR
+2265,USA > Missouri,US
+2266,Helsinki / Finland,FI
