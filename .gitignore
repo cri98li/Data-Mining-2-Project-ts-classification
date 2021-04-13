@@ -123,3 +123,4 @@ fma_metadata_progetto/features.csv
 fma_metadata_progetto/tracks.csv
 fma_metadata_progetto/raw_tracks.csv
 *.h5
+df con features originali e senza bitmap.csv
