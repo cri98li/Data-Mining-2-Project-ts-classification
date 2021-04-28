@@ -145,3 +145,5 @@ f1_naive.pdf
 f1_logistic.pdf
 accuracy_naive.pdf
 accuracy_logistic.pdf
+accuracy_randomforest.pdf
+f1_randomforest.pdf
