@@ -1,6 +1,36 @@
-# Progetto DM2
- 
-## Project Guidelines
+# Project Data Mining 2 Course @ UniPi
+
+Course description:
+Recent tremendous technical advances in processing power, storage capacity, and interconnectivity are creating unprecedented quantities of digital data. Data mining, the
+science of extracting useful knowledge from such huge data repositories, has emerged as an interdisciplinary field in computer science. Data mining techniques have
+been widely applied to problems in industry, science, engineering and government,
+and it is believed that data mining will have profound impact on our society. The
+course is divided into two modules. The first presents an introduction to the basic
+concepts of data mining and the knowledge discovery process, and associated analytical models and algorithms. The second module provides an account of advanced
+techniques for analysis and mining of novel forms of data, and the main application
+areas and prototypical case studies.
+
+Syllabus:
+- Mining Time-Series and Spatio-Temporal Data.
+- Mining Sequential Data, Mining Large Graphs and Networks.
+- Advanced Association, Correlation and Frequent Pattern Analysis.
+- Advanced Classification, Cluster Analysis and Outlier Detection.
+- Data Mining Languages, Standards and System Architectures.
+- Ethical aspects of data mining.
+- Privacy-Preserving Data Mining.
+- Applications: Retail Industry, Marketing, CRM, Telecommunication Industry,
+Financial Data Analysis, Risk Analysis, Fraud Detection,
+Mobility and Transportation, Public Administration and Health.
+
+## The Project
+
+This year the dataset for the project is for some information extracted from the [FMA](https://freemusicarchive.org/) archive.
+
+The data is both tabular and time series, also, having the audio file available, additional feature extraction was performed via liborsa.
+
+The task to solve is to label each song with its genre. For further information I report below the guidelines of the project.
+
+### Project Guidelines
 
 1. **Module 1 - Introduction, Imbalanced Learning and Anomaly Detection**
     1. Explore and prepare the dataset. You are allowed to take inspiration from the associated         GitHub repository and figure out your personal research perspective (from choosing a subset of       variables to the class to predict…). You are welcome in creating new variables and performing all     the pre-processing steps the dataset needs.
