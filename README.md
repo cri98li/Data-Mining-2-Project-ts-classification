@@ -59,3 +59,11 @@ The task to solve is to label each song with its genre. For further information 
    1. Try to use one or more explanation methods (e.g., LIME, LOR, SHAP, etc.) to illustrate the reasons for the classification in one of the steps of the previous tasks.
 
 N.B. When “solving the classification task”, remember, (i) to test, when needed, different criteria for the parameter estimation of the algorithms, and (ii) to evaluate the classifiers (e.g., Accuracy, F1, Lift Chart) in order to compare the results obtained with an imbalanced technique against those obtained from using the “original” dataset.
+
+### Altre note (in italian)
+
+Per estrarre gli spettrogrammi ti potrebbero essere utili i notebook "Features Extraction TS" e "Prova con MEL spectrograms". L'unica cosa prova a rendere il primo notebook uno script e metti un ProcessPoolExecutor.
+
+I vari notebook "Fase X.Y" contengono il codice per i vari task del progetto secondo le "Project Guidelines". Quelli con nomi in formato diverso sono vari esperimenti che (probabilmente) non sono finiti nel workflow finale
+
+Tutti i dati che ho generato durante il progetto sono inclusi nella repo, ma compressi con 7z per il limite dell'upload massimo di 100mb/file. L'unica cosa che ti devi scaricare è il dataset delle canzoni
